@@ -1,0 +1,1 @@
+This game is played with at least three people and requires a drawing board. The players indicate the number of players they are, and one of them is chosen to be the impostor. The players who are not the impostor try to draw the universe they saw on the command panel, without giving the impostor a clue. The impostor tries to find the universe without revealing himself.
